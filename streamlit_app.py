@@ -8,7 +8,7 @@ import json
 import time
 
 # OpenAI API Config
-API_KEY = "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"
+API_KEY = "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"
 API_ENDPOINT = "https://api.openai.com/v1/chat/completions"
 
 # Custom CSS
